@@ -98,12 +98,6 @@ A synthetic regression dataset generated using Scikit-Learn to demonstrate regul
 
 ---
 
-## 🏁 Conclusion
-
-Lasso Regression is a powerful regularization technique that not only reduces overfitting but also performs feature selection by eliminating less important variables. This project provides a practical understanding of how L1 Regularization influences model behavior and feature importance.
-
----
-
 ## 💻 Technologies Used
 
 * Python
@@ -111,3 +105,10 @@ Lasso Regression is a powerful regularization technique that not only reduces ov
 * Pandas
 * Matplotlib
 * Scikit-Learn
+
+---
+
+## 🏁 Conclusion
+
+Lasso Regression is a powerful regularization technique that not only reduces overfitting but also performs feature selection by eliminating less important variables. This project provides a practical understanding of how L1 Regularization influences model behavior and feature importance.
+
